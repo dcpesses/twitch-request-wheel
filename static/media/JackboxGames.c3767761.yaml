@@ -3,7 +3,7 @@
 # (Any capitalization is fine.)
 #
 # If you tried to write a real Jackbox game in a different
-# and the bot didn't recognize it, message @dcpesses on
+# and the bot didn't recognize it, message @asukii314 on
 # twitch to get that variant added!
 
 
@@ -197,3 +197,15 @@ Party Pack 7:
 Standalone:
   Drawful 2:
     - drawful 2
+
+Non-Jackbox Games:
+  What The Dub:
+    - what the dub
+    - what da dub
+    - wtd
+    - dub
+  Gartic Phone:
+    - gartic phone
+    - garlic phone
+    - gartic
+    - garlic
