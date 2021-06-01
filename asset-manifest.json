@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/twitch-request-wheel/static/css/main.94b2b7a8.chunk.css",
-    "main.js": "/twitch-request-wheel/static/js/main.c9606e8d.chunk.js",
-    "main.js.map": "/twitch-request-wheel/static/js/main.c9606e8d.chunk.js.map",
-    "runtime-main.js": "/twitch-request-wheel/static/js/runtime-main.7dcb068c.js",
-    "runtime-main.js.map": "/twitch-request-wheel/static/js/runtime-main.7dcb068c.js.map",
-    "static/js/2.8881c2a2.chunk.js": "/twitch-request-wheel/static/js/2.8881c2a2.chunk.js",
-    "static/js/2.8881c2a2.chunk.js.map": "/twitch-request-wheel/static/js/2.8881c2a2.chunk.js.map",
-    "static/js/3.773d0107.chunk.js": "/twitch-request-wheel/static/js/3.773d0107.chunk.js",
-    "static/js/3.773d0107.chunk.js.map": "/twitch-request-wheel/static/js/3.773d0107.chunk.js.map",
-    "index.html": "/twitch-request-wheel/index.html",
-    "static/css/main.94b2b7a8.chunk.css.map": "/twitch-request-wheel/static/css/main.94b2b7a8.chunk.css.map",
-    "static/js/2.8881c2a2.chunk.js.LICENSE.txt": "/twitch-request-wheel/static/js/2.8881c2a2.chunk.js.LICENSE.txt",
-    "static/media/JackboxGames.30f1bd75.yaml": "/twitch-request-wheel/static/media/JackboxGames.30f1bd75.yaml",
-    "static/media/dice.021a7158.svg": "/twitch-request-wheel/static/media/dice.021a7158.svg",
-    "static/media/lock.6857c469.svg": "/twitch-request-wheel/static/media/lock.6857c469.svg",
-    "static/media/star.de82f684.svg": "/twitch-request-wheel/static/media/star.de82f684.svg"
+    "main.css": "./static/css/main.94b2b7a8.chunk.css",
+    "main.js": "./static/js/main.ebe6d44d.chunk.js",
+    "main.js.map": "./static/js/main.ebe6d44d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cb7bd717.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cb7bd717.js.map",
+    "static/js/2.2bee45fd.chunk.js": "./static/js/2.2bee45fd.chunk.js",
+    "static/js/2.2bee45fd.chunk.js.map": "./static/js/2.2bee45fd.chunk.js.map",
+    "static/js/3.773d0107.chunk.js": "./static/js/3.773d0107.chunk.js",
+    "static/js/3.773d0107.chunk.js.map": "./static/js/3.773d0107.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.94b2b7a8.chunk.css.map": "./static/css/main.94b2b7a8.chunk.css.map",
+    "static/js/2.2bee45fd.chunk.js.LICENSE.txt": "./static/js/2.2bee45fd.chunk.js.LICENSE.txt",
+    "static/media/JackboxGames.30f1bd75.yaml": "./static/media/JackboxGames.30f1bd75.yaml",
+    "static/media/dice.021a7158.svg": "./static/media/dice.021a7158.svg",
+    "static/media/lock.6857c469.svg": "./static/media/lock.6857c469.svg",
+    "static/media/star.de82f684.svg": "./static/media/star.de82f684.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dcb068c.js",
-    "static/js/2.8881c2a2.chunk.js",
+    "static/js/runtime-main.cb7bd717.js",
+    "static/js/2.2bee45fd.chunk.js",
     "static/css/main.94b2b7a8.chunk.css",
-    "static/js/main.c9606e8d.chunk.js"
+    "static/js/main.ebe6d44d.chunk.js"
   ]
 }
